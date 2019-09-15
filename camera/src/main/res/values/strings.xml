@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">camera</string>
+
+    <string name="strGoToActivityCamera">Go To Camera</string>
+
+    <string name="strTakePicture">拍照</string>
+    <string name="strTakeRecord">录制</string>
+</resources>
